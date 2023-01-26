@@ -1,1 +1,1 @@
-worker: bash fifthon.py
+عامل: باش علي
